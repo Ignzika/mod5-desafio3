@@ -1,6 +1,12 @@
-sitio realizado para desafio latam
-cssframework = https://github.com/luttje/css-pokemon-gameboy/ // https://luttje.github.io/css-pokemon-gameboy/
-PokeApi.... i hate you and i love you
+deployment on netlify: 
+
+# https://pokeapigeni.netlify.app/
+
+
+sitio realizado para desafio latam.
+cssframework = https://github.com/luttje/css-pokemon-gameboy/ // https://luttje.github.io/css-pokemon-gameboy/ .
+
+PokeApi.... i hate you and i love you.
 
 
 
